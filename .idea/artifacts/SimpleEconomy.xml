@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleEconomy">
+    <output-path>$USER_HOME$/Desktop/spigot 1.15 másolata (2)/plugins</output-path>
+    <root id="archive" name="SimpleEconomy.jar">
+      <element id="module-output" name="SimpleEconomy" />
+    </root>
+  </artifact>
+</component>

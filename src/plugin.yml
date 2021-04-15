@@ -1,0 +1,17 @@
+main: com.boys4code.plugin.Main
+version: 1.0
+name: SimpleEconomy
+description:
+author: boys4Code
+commands:
+  balance:
+    aliases:
+      - bal
+      - bl
+  economy:
+    aliases:
+      - eco
+      - ec
+    permission: economy.*
+    permission-message: Nincs jogod haver.
+  pay:
